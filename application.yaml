@@ -9,7 +9,7 @@ metadata:
 
 spec:
 
-  project: edu31
+  project: default
   
   source:
     repoURL: https://github.com/shclub/edu14-2.git
