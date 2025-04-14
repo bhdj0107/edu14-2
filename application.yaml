@@ -8,11 +8,10 @@ metadata:
     - resources-finalizer.argocd.argoproj.io
 
 spec:
-
   project: default
   
   source:
-    repoURL: https://github.com/shclub/edu14-2.git
+    repoURL: https://github.com/bhdj0107/edu14-2.git
     targetRevision: HEAD
     path: apps
   
